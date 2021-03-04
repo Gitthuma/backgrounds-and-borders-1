@@ -1,6 +1,8 @@
 .box {
   border: 5px solid black;
   border-radius: 10px;
+  background-image: url(https://raw.githubusercontent.com/mdn/css-examples/master/learn/tasks/backgrounds/balloons.jpg);
+  background-size: cover;
 }
 
 h2 {
